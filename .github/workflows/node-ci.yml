@@ -4,7 +4,7 @@ name: Node CI
 # workflow event triggers
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   # job name can be anything. It groups a set of actions that can be executed.
